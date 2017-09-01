@@ -16,6 +16,8 @@ public class Hello {
 		
 		System.out.println("这就是GitHub");
 		
+		System.out.println("GitHub");
+		
 		
 
 	}
